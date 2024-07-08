@@ -1,6 +1,6 @@
 <p align="center">
 
-<img height="200" src="./Banner.png" alt="my banner">
+<img  src="./Banner.png" alt="my banner">
 
 </p>
 
